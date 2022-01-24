@@ -1,3 +1,6 @@
+# Euler Problem 008
+# Solved January 2021
+
 # largest product in a series
 
 num = int("""73167176531330624919225119674426574742355349194934
